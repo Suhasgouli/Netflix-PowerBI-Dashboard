@@ -11,7 +11,7 @@ This project is an interactive Power BI dashboard built using the Netflix Titles
 
 > Update the image path if your screenshot has a different filename.
 
-![Netflix Dashboard](Dataset/Images/netflix_dashboard.png)
+![Netflix Dashboard](Dataset/Images/netflix_dashboard.png.png)
 
 ---
 
